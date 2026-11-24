@@ -1,11 +1,13 @@
 # bring-the-humans-03 — TikTok Ad Entry
 
-[![make.fun bring-the-humans-03](https://img.shields.io/badge/make.fun-bring--the--humans--03-blue)](https://make.fun)
-[![video TikTok 30s](https://img.shields.io/badge/video-TikTok%2030s-black)](https://www.tiktok.com/@gbrandmb/video/7711793589772389639)
-[![license MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03)
+[![rank on make.fun](https://make.fun/badge/bring-the-humans-03/hoddlr/bring-the-humans-03-entry/rank.svg)](https://make.fun/bounty/bring-the-humans-03)
+[![reward on make.fun](https://make.fun/badge/bring-the-humans-03/hoddlr/bring-the-humans-03-entry/reward.svg)](https://make.fun/bounty/bring-the-humans-03)
 
 A 30-second TikTok ad for make.fun — "Your AI Pays You". The video is
 already published on TikTok; this entry links to it via `VIDEO.json`.
+
+Watch the video: https://www.tiktok.com/@gbrandmb/video/7711793589772389639
 
 ## Run
 
